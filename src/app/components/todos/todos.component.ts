@@ -27,7 +27,7 @@ export class TodosComponent implements OnInit {
         completed: false
       },
       {
-        content: 'Build To do App',
+        content: 'Build an App',
         completed: false
       }
 
